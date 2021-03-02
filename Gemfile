@@ -14,7 +14,7 @@ gem 'sinatra-websocket'
 
 gem 'rake'
 gem 'sinatra-activerecord'
-gem 'activerecord', '5.2.3'
+gem 'activerecord', '5.2.4.5'
 gem 'bcrypt'
 
 gem 'cloudinary', require: false
